@@ -1,0 +1,34 @@
+
+.carousel-item {
+    width: 100%;
+    height: auto;
+    max-height: 700px;
+    object-fit: cover; 
+}
+
+bg-body-tertiary {
+    background-color: aquamarine;
+}
+
+.carousel {
+    margin-bottom: 50px;
+}
+
+.img-fluid{
+    margin-bottom: 50px;
+    max-width: 500px;
+}
+
+.image-row {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.image-row img {
+    max-width: 100%;
+    height: auto;
+}
+
+.card {
+    margin-bottom: 50px;
+}
